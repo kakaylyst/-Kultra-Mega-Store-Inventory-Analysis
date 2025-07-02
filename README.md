@@ -23,6 +23,7 @@ Kultra Mega Stores (KMS) sells office supplies/furniture. This project analyzes 
 
 ## 💾 5. Tools Used
 - SQL Server Management Studio (SSMS)
+- Snipping Tool (for screenshot)
 - GitHub for reporting
 
 ## 📈 6. Key Insights
